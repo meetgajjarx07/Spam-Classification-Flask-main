@@ -21,8 +21,8 @@
 
 
 ## About The Project
+![Spam_Classifier_Home](https://github.com/meetgajjarx07/Spam-Classification-Flask-main/assets/135112807/beb7cb01-ce2f-4019-8271-e94213b6e20f)
 
-![Product Name Screen Shot][product-screenshot]
 
 Spam, or unwanted commercial or mass e-mail, has recently become a major issue on the internet. Spam is a waste of time, storage space, and data transfer capacity.
 
@@ -104,4 +104,3 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [language-shield]: https://img.shields.io/github/languages/count/meetgajjarx07/Spam-Classification-Flask-main?style=for-the-badge
 [language-url]: #
 
-[product-screenshot]: Media/Spam_Classifier_Home.png# Spam-Classification-Flask-main
