@@ -11,11 +11,11 @@
 
 
   <p align="center">
-    <a href="https://github.com/DeepKariaX/Spam-Classification-Flask">View Demo</a>
+    <a href="https://github.com/meetgajjarx07/Spam-Classification-Flask-main">View Demo</a>
     ·
-    <a href="https://github.com/DeepKariaX/Spam-Classification-Flask/issues">Report Bug</a>
+    <a href="https://github.com/meetgajjarx07/Spam-Classification-Flask-main/issues">Report Bug</a>
     ·
-    <a href="https://github.com/DeepKariaX/Spam-Classification-Flask/issues">Request Feature</a>
+    <a href="https://github.com/meetgajjarx07/Spam-Classification-Flask-main/issues">Request Feature</a>
   </p>
 </div>
 
@@ -89,19 +89,19 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/deep-karia-2436b2194/ -->
 
-[contri-shield]: https://img.shields.io/github/contributors/DeepKariaX/Spam-Classification-Flask?style=for-the-badge
+[contri-shield]: https://img.shields.io/github/contributors/meetgajjarx07/Spam-Classification-Flask-main?style=for-the-badge
 [contri-url]: #
 
-[license-shield]: https://img.shields.io/github/license/DeepKariaX/Spam-Classification-Flask?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/meetgajjarx07/Spam-Classification-Flask-main?style=for-the-badge
 [license-url]: https://github.com/DeepKariaX/Spam-Classification-Flask/blob/main/LICENSE.txt
 
-[size-shield]: https://img.shields.io/github/repo-size/DeepKariaX/Spam-Classification-Flask?style=for-the-badge
+[size-shield]: https://img.shields.io/github/repo-size/meetgajjarx07/Spam-Classification-Flask-main?style=for-the-badge
 [size-url]: #
 
-[issues-shield]: https://img.shields.io/github/issues/DeepKariaX/Spam-Classification-Flask?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/meetgajjarx07/Spam-Classification-Flask-main?style=for-the-badge
 [issues-url]: #
 
-[language-shield]: https://img.shields.io/github/languages/count/DeepKariaX/Spam-Classification-Flask?style=for-the-badge
+[language-shield]: https://img.shields.io/github/languages/count/meetgajjarx07/Spam-Classification-Flask-main?style=for-the-badge
 [language-url]: #
 
 [product-screenshot]: Media/Spam_Classifier_Home.png# Spam-Classification-Flask-main
