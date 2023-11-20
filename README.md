@@ -3,7 +3,6 @@
 <div align="center">
 <h1 align="center">Spam Classification</h3>
 
-[[![MIT License][license-shield]][https://github.com/meetgajjarx07/Spam-Classification-Flask-main/blob/main/LICENSE.txt]]
 [![Languages][language-shield]][language-url]
 [![Contributors][contri-shield]][contri-url]
 [![Size][size-shield]][size-url]
