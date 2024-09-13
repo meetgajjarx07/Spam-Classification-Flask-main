@@ -59,7 +59,7 @@ Make sure that you have the following:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/DeepKariaX/Spam-Classification-Flask
+   git clone https://github.com/meetgajjarx07/Spam-Classification-Flask
    ```
 2. Install Python packages
    ```sh
